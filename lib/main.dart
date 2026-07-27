@@ -29,7 +29,7 @@ class ContentFlowApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ContentFlow Creator',
+      title: 'ContentFlow Creator 1',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primaryColor: const Color(0xFF4B156B),
